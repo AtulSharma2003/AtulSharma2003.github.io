@@ -1,0 +1,33 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: #0070f3;
+    color: #fff;
+    padding: 2rem 0;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+section {
+    margin: 2rem 0;
+    padding: 2rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #0070f3;
+    color: #fff;
+    padding: 1rem 0;
+}
